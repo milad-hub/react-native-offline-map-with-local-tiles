@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "map_info.app"
-               BlueprintName = "map_info"
-               ReferencedContainer = "container:map_info.xcodeproj">
+               BuildableName = "rn_map_offline.app"
+               BlueprintName = "rn_map_offline"
+               ReferencedContainer = "container:rn_map_offline.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "map_infoTests.xctest"
-               BlueprintName = "map_infoTests"
-               ReferencedContainer = "container:map_info.xcodeproj">
+               BuildableName = "rn_map_offlineTests.xctest"
+               BlueprintName = "rn_map_offlineTests"
+               ReferencedContainer = "container:rn_map_offline.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "map_info.app"
-            BlueprintName = "map_info"
-            ReferencedContainer = "container:map_info.xcodeproj">
+            BuildableName = "rn_map_offline.app"
+            BlueprintName = "rn_map_offline"
+            ReferencedContainer = "container:rn_map_offline.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "map_info.app"
-            BlueprintName = "map_info"
-            ReferencedContainer = "container:map_info.xcodeproj">
+            BuildableName = "rn_map_offline.app"
+            BlueprintName = "rn_map_offline"
+            ReferencedContainer = "container:rn_map_offline.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

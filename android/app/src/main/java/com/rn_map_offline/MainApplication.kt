@@ -1,4 +1,4 @@
-package com.map_info
+package com.rn_map_offline
 
 import android.app.Application
 import com.facebook.react.PackageList
@@ -11,7 +11,7 @@ import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.react.flipper.ReactNativeFlipper
 import com.facebook.soloader.SoLoader
-import com.map_info.AppServerPackage
+import com.rn_map_offline.AppServerPackage
 
 class MainApplication : Application(), ReactApplication {
 

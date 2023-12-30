@@ -1,4 +1,4 @@
-package com.map_info
+package com.rn_map_offline
 
 import fi.iki.elonen.NanoHTTPD
 import android.Manifest

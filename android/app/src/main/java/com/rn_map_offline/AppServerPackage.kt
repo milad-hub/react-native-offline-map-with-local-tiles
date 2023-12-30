@@ -1,4 +1,4 @@
-package com.map_info
+package com.rn_map_offline
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule
